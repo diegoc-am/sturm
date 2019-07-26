@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'grape', '~> 1.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.0'
 gem 'rake', '~> 12.3'
 
 group :development do
