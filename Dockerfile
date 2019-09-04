@@ -4,7 +4,7 @@ ADD Gemfile /app/
 ADD Gemfile.lock /app/
 
 RUN apk --update add --virtual build-dependencies ruby-dev build-base && \
-    gem install bundler --no-ri --no-rdoc && \
+    gem install bundler && \
     cd /app ; bundle install --without development test && \
     apk del build-dependencies
 
