@@ -1,6 +1,6 @@
 # Sturm
 
-[![Build Status](https://travis-ci.org/belfazt/sturm.svg?branch=master)](https://travis-ci.org/belfazt/sturm)
+[![Build Status](https://travis-ci.org/belfazt/sturm.svg?branch=master)](https://travis-ci.org/belfazt/sturm) [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/belfazt/sturm)](https://hub.docker.com/r/belfazt/sturm)
 
 Structure to create a microservice, uses [Grape](https://github.com/ruby-grape/grape)
 
